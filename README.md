@@ -1,5 +1,7 @@
 # Super cute code visualization tool ✨
 
+[点击查看中文版本](#超级可爱的代码可视化工具-)
+
 Wow! This is a super powerful code visualization and debugging tool~ It can convert JSON, JavaScript and Python codes into super beautiful tree diagrams, support drag and drop editing, format checking, one-click export of code files and many other interesting functions! (●'◡'●)
 
 ## Super cute function list ✨
@@ -84,3 +86,76 @@ json-visualizer/
 ## Small license 📜
 
 This cute little tool uses [MIT License](LICENSE) open source~ This means you can use, modify and share it freely, as long as you keep the original author's copyright information! Go and create more interesting things! (｡･ω･｡)ﾉ♡
+
+# 超级可爱的代码可视化工具 ✨
+
+哇！这是一个超级厉害的代码可视化和调试小工具呢～它可以把JSON、JavaScript和Python代码转换成超级好看的树状图，支持拖拽编辑、格式检查、一键导出代码文件等超多有趣功能哦！(●'◡'●)
+
+## 超萌功能列表 ✨
+
+- **多语言支持**：不只是JSON哦，还支持JavaScript和Python代码的可视化呢～切换起来超简单的！
+- **代码检查小助手**：会自动检查你的代码格式，如果有问题会告诉你哪里出错啦～
+- **可爱树状图**：把复杂的代码变成超级直观的小树图，看起来好舒服～
+- **拖拖拽拽**：可以用鼠标拖动节点，重新组织数据结构，就像玩积木一样有趣！
+- **折叠小魔法**：大型数据不用怕，可以折叠起来变得小小的，需要时再展开～
+- **一键下载**：把数据导出为JSON、JavaScript或Python格式的文件，点一下就能保存到电脑上啦！
+- **美化代码**：一键让你的代码变得整整齐齐，好看又专业～
+- **快捷键**：支持超多方便的快捷键，让你的小手指操作起来飞快呢～
+- **萌萌的界面**：无论是大屏幕还是小屏幕，都能完美适配，看起来都超级可爱～
+
+## 快速开始玩耍 🚀
+
+1. 把这个小工具克隆或下载到你的电脑上～
+2. 用你喜欢的浏览器打开`index.html`文件，就能看到萌萌的界面啦！
+3. 在左边的小框框里输入或粘贴你的代码（可以是JSON、JavaScript或Python哦）
+4. 点击"解析"按钮，哇！你的代码变成了可爱的树状图～
+
+## 怎么玩耍呢？ 🎮
+
+### 基本操作小指南
+
+- **选择语言**：在顶部可以选择你想要处理的代码类型（JSON、JavaScript或Python）～
+- **解析代码**：在左侧输入你的代码，然后点击"解析"按钮或使用快捷键`Ctrl+Enter`，就能看到神奇的变化啦！
+- **美化代码**：点击"格式化"按钮或使用快捷键`Ctrl+Shift+F`，代码立刻变得整整齐齐～
+- **清空重来**：点击"清空"按钮，一键清空编辑器，重新开始！
+- **看看例子**：不知道写什么？点击"示例"按钮，会自动加载对应语言的示例代码哦～
+
+### 树状图玩法
+
+- **展开/收起**：点击节点前面的小三角，可以像魔法一样展开或收起节点～
+- **全部展开**：点击"全部展开"按钮，所有的节点都会乖乖展开！
+- **全部收起**：点击"全部折叠"按钮，所有的节点都会缩成小小的～
+- **拖拖拽拽**：用鼠标拖动节点到另一个对象或数组节点上，就能重新组织数据结构啦！
+
+### 导出小技巧
+
+1. 点击"导出"按钮
+2. 从下拉菜单选择你想要的格式（JSON、JavaScript或Python）
+3. 文件会自动下载到你的电脑上，超级方便呢！
+4. 文件名会根据格式自动设置为`data.json`、`data.js`或`data.py`～
+
+## 技术小秘密 💻
+
+- 纯纯的JavaScript（ES6+），没有用任何复杂的框架，超级轻量级～
+- 漂亮的HTML5标签，结构清晰又好看！
+- 可爱的CSS3样式，支持响应式设计，在手机上也能完美显示哦～
+- 零依赖！不需要安装任何额外的东西，打开就能用，超级方便呢！
+
+## 项目小地图 🗺️
+
+```
+json-visualizer/
+├── css/
+│   └── styles.css           # 可爱的样式文件，让界面变得美美的～
+├── js/
+│   ├── app.js               # 应用程序主文件，所有功能的指挥官！
+│   ├── editor.js            # 编辑器模块，负责代码输入和格式化～
+│   ├── json-parser.js       # 解析器模块，支持JSON、JavaScript和Python哦！
+│   └── tree-view.js         # 树状图模块，把代码变成漂亮的树～
+├── index.html               # 主HTML文件，整个应用的入口～
+└── README.md                # 就是你现在看的这个可爱说明书啦～
+```
+
+## 小小许可证 📜
+
+这个可爱的小工具使用 [MIT License](LICENSE) 开源哦～这意味着你可以自由使用、修改和分享它，只要保留原作者的版权信息就可以啦！快去创造更多有趣的东西吧！(｡･ω･｡)ﾉ♡
