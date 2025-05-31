@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON 可视化调试工具</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>JSON 可视化调试工具</h1>
+        </header>
+        
+        <div class="main-content">
+            <div class="editor-container">
+                <div class="editor-header">
+                    <h2>代码输入</h2>
+                    <div class="editor-tools">
+                        <select id="language-select" aria-label="选择语言">
+                            <option value="json" selected>JSON</option>
+                            <option value="javascript">JavaScript</option>
+                            <option value="python">Python</option>
+                        </select>
+                        <button id="parse-btn" title="解析"><i class="fas fa-play"></i> 解析</button>
+                        <button id="format-btn" title="格式化"><i class="fas fa-indent"></i> 格式化</button>
+                        <button id="clear-btn" title="清空"><i class="fas fa-trash"></i> 清空</button>
+                        <button id="sample-btn" title="示例"><i class="fas fa-file-code"></i> 示例</button>
+                    </div>
+                </div>
+                <textarea id="code-input" placeholder="在此输入 JSON、JavaScript 对象或 Python 字典..."></textarea>
+                <div id="error-container"></div>
+            </div>
+            
+            <div class="visualizer-container">
+                <div class="visualizer-header">
+                    <h2>可视化结果</h2>
+                    <div class="visualizer-tools">
+                        <button id="collapse-all-btn" title="全部折叠"><i class="fas fa-compress"></i> 全部折叠</button>
+                        <button id="expand-all-btn" title="全部展开"><i class="fas fa-expand"></i> 全部展开</button>
+                        <button id="export-btn" title="导出为代码"><i class="fas fa-file-export"></i> 导出</button>
+                        <select id="export-format" aria-label="导出格式选择">
+                            <option value="json">JSON</option>
+                            <option value="js">JavaScript</option>
+                            <option value="python">Python</option>
+                        </select>
+                    </div>
+                </div>
+                <div id="tree-container" class="tree-view"></div>
+            </div>
+        </div>
+        
+        <!-- 导出功能已改为直接下载文件，不再需要模态窗口 -->
+    </div>
+    
+    <footer>
+        <p>JSON 可视化调试工具 &copy; 2024</p>
+    </footer>
+    
+    <script src="js/json-parser.js"></script>
+    <script src="js/tree-view.js"></script>
+    <script src="js/editor.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
