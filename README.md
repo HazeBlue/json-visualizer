@@ -1,6 +1,6 @@
 # Super cute code visualization tool ✨
 
-[点击查看中文版本](#超级可爱的代码可视化工具-)
+[中文](#超级可爱的代码可视化工具-)
 
 Wow! This is a super powerful code visualization and debugging tool~ It can convert JSON, JavaScript and Python codes into super beautiful tree diagrams, support drag and drop editing, format checking, one-click export of code files and many other interesting functions! (●'◡'●)
 
