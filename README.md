@@ -87,6 +87,10 @@ json-visualizer/
 
 This cute little tool uses [MIT License](LICENSE) open source~ This means you can use, modify and share it freely, as long as you keep the original author's copyright information! Go and create more interesting things! (｡･ω･｡)ﾉ♡
 
+Of course, you can also give me BTC so I can experience the joy of receiving money from a stranger and the thrill of sudden wealth. Of course, if you give it, it's entirely voluntary, and I won't return it. I only accept BTC. Below is my address, SEGWIT only:👇:
+
+bc1qxamq7gwpxpu5e0ekw7h49wwsy3a0vv7xdqtvxz
+
 # 超级可爱的代码可视化工具 ✨
 
 哇！这是一个超级厉害的代码可视化和调试小工具呢～它可以把JSON、JavaScript和Python代码转换成超级好看的树状图，支持拖拽编辑、格式检查、一键导出代码文件等超多有趣功能哦！(●'◡'●)
@@ -160,9 +164,8 @@ json-visualizer/
 
 这个可爱的小工具使用 [MIT License](LICENSE) 开源哦～这意味着你可以自由使用、修改和分享它，只要保留原作者的版权信息就可以啦！快去创造更多有趣的东西吧！(｡･ω･｡)ﾉ♡
 
-Of course, you can also give me BTC so I can experience the joy of receiving money from a stranger and the thrill of sudden wealth. Of course, if you give it, it's entirely voluntary, and I won't return it. I only accept BTC. Below is my address, SEGWIT only:👇:
-
 当然，您也可以给我一些比特币（BTC），让我体验一下收到陌生人赠予的钱财的喜悦以及一夜暴富的刺激。当然，如果您愿意赠予，完全是出于自愿，我也不会退还。我只接受比特币（BTC）。以下是我的地址，仅支持 SegWit 地址：👇
 
 bc1qxamq7gwpxpu5e0ekw7h49wwsy3a0vv7xdqtvxz
+
 
