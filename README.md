@@ -159,3 +159,10 @@ json-visualizer/
 ## 小小许可证 📜
 
 这个可爱的小工具使用 [MIT License](LICENSE) 开源哦～这意味着你可以自由使用、修改和分享它，只要保留原作者的版权信息就可以啦！快去创造更多有趣的东西吧！(｡･ω･｡)ﾉ♡
+
+Of course, you can also give me BTC so I can experience the joy of receiving money from a stranger and the thrill of sudden wealth. Of course, if you give it, it's entirely voluntary, and I won't return it. I only accept BTC. Below is my address, SEGWIT only:👇:
+
+当然，您也可以给我一些比特币（BTC），让我体验一下收到陌生人赠予的钱财的喜悦以及一夜暴富的刺激。当然，如果您愿意赠予，完全是出于自愿，我也不会退还。我只接受比特币（BTC）。以下是我的地址，仅支持 SegWit 地址：👇
+
+bc1qxamq7gwpxpu5e0ekw7h49wwsy3a0vv7xdqtvxz
+
